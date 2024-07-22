@@ -21,7 +21,8 @@ URL Scanner es un proyecto de prácticas diseñado para comprobar enlaces y devo
 URL Scanner is an internship project designed to check links and return information such as the site's security, code and response time, activity and more. You can see all the results displayed in the console.
 </p>
 
-<h3>Projéto de Estági ( ERASMUS + Placencia-Espanha, Julho 2024) o Realizado por, Alexandre Bento e Rodrigo Amaro, da turma de 2º Ano de Programador de Informática da Escola Profissional do Fundão. </h3>
+<h3>Projéto de Estági ( ERASMUS + Placencia-Espanha, Julho 2024) o Realizado por:</h3>
+<h3> Alexandre Bento e Rodrigo Amaro, da turma de 2º Ano de Programador de Informática da Escola Profissional do Fundão. </h3>
 
  <img src="assets/img/project.png" alt="">
  <img src="assets/img/output.png" alt="">
