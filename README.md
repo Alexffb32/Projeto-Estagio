@@ -23,7 +23,7 @@ URL Scanner is an internship project designed to check links and return informat
 
 <h3>Projéto de Estági ( ERASMUS + Placencia-Espanha, Julho 2024) o Realizado por:</h3>
 <h3> Alexandre Bento e Rodrigo Amaro, da turma de 2º Ano de Programador de Informática </h3>
-<h3><a href="https://www.epfundao.edu.pt">Escola Profissional do Fundão</a></h3>
+<h3><a href="https://www.epfundao.edu.pt" target="_blank">Escola Profissional do Fundão</a></h3>
 
  <img src="assets/img/project.png" alt="">
  <img src="assets/img/output.png" alt="">
